@@ -1,0 +1,155 @@
+button {
+	color:white!important;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+  /* ---------- 
+Redaction 
+---------- */
+
+/* Redacion */
+@font-face {
+	font-family: 'Redaction';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* Redacion 10 */
+@font-face {
+	font-family: 'Redaction 10';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction 10';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction 10';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* Redacion 20 */
+@font-face {
+	font-family: 'Redaction 20';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction 20';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction 20';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* Redacion 35 */
+@font-face {
+	font-family: 'Redaction 35';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction 35';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction 35';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* Redacion 50 */
+@font-face {
+	font-family: 'Redaction 50';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction 50';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction 50';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* Redacion 70 */
+@font-face {
+	font-family: 'Redaction 70';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction 70';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction 70';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* Redacion 100 */
+@font-face {
+	font-family: 'Redaction 100';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction 100';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Redaction 100';
+    src: url('$lib/assets/fonts/Montserrat-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+}
