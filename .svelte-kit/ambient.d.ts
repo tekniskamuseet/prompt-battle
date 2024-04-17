@@ -26,8 +26,6 @@
  * ```
  */
 declare module '$env/static/private' {
-	export const OPENAI_API_KEY: string;
-	export const ORIGIN: string;
 	export const MANPATH: string;
 	export const TERM_PROGRAM: string;
 	export const NODE: string;
@@ -106,8 +104,6 @@ declare module '$env/static/public' {
  */
 declare module '$env/dynamic/private' {
 	export const env: {
-		OPENAI_API_KEY: string;
-		ORIGIN: string;
 		MANPATH: string;
 		TERM_PROGRAM: string;
 		NODE: string;
