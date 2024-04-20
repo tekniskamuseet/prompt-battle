@@ -1,5 +1,12 @@
 @import url(./typography.css);
 
+body,
+body * {
+    font-family: "Montserrat" !important;
+}
+input, textarea {background-color: transparent; color: white!important;}
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
